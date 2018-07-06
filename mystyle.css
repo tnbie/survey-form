@@ -1,0 +1,30 @@
+#title {
+text-align: center;
+font-family: Verdana, Monospace;
+font-size: 28px;
+}
+
+#description {
+text-align: center;
+font-family: Verdana, Monospace;
+font-size: 12px;
+}
+
+body{
+background-color: lightblue;
+}
+
+#submit{
+background-color: blue;
+color: white;
+}
+
+#survey-form{
+text-align: center;
+border-style: solid;
+background-color: white;
+}
+
+#sex {
+display: inline-block;
+}
